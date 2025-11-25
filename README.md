@@ -21,7 +21,7 @@ Using **FME Form** and **Python**, the pipeline processes raw `.LAS` point cloud
 
 ## ⚙️ Architecture & Workflow
 ![FME Workflow](docs/fme_workflow_full.png)
-*Use the screenshot of your full FME canvas here.*
+
 
 ### The Pipeline Steps:
 1.  **Ingest:** Read raw `.LAS` point cloud data.
