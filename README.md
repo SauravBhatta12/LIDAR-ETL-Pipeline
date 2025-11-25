@@ -18,7 +18,7 @@ Using **FME Form** and **Python**, the pipeline processes raw `.LAS` point cloud
 * **Data Format:** ASPRS LAS (Airborne/Mobile LIDAR)
 
 ## ⚙️ Architecture & Workflow
-![FME Workflow](docs/fme_workflow_full.png)
+![FME Workflow](docs/fme_workflow_full-1.png)
 
 
 ### The Pipeline Steps:
